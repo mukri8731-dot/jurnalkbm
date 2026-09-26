@@ -1,0 +1,6 @@
+{
+  "name": "Jurnal KBM Digital - Laporan Kegiatan Belajar Mengajar",
+  "description": "Aplikasi profesional guru untuk menginput, mengelola, mencari, mencetak, dan mengunduh jurnal laporan kegiatan belajar mengajar dengan database persisten.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
